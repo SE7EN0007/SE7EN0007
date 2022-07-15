@@ -1,10 +1,3 @@
-### Olá, me chamo Pedro, mas pode me chamar de Six!
-
-- 🔭 Trabalho com Design e Programação
-- 🌱 Estudando linguagens de programação tais como: Javascript, Python
-- 📫 Contate-me: contatoalwayssix@gmail.com
-- 😄 Pronomes: ele/dele
-
 <div>
   <a href="https://www.youtube.com/c/alwayssix">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=alwayssix&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
